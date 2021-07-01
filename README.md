@@ -14,3 +14,19 @@ of the model is then displayed to the user which will display Covid-
 19 stage I,II and Severe stage or Non- Covid-19 to the User.
 
 ****Platform****
+
+Windows 10
+
+**Libraries**
+
+1. tkinter
+2. math
+3. numpy
+4. cv2
+5. pickle
+6. matplotlib
+7. tensorflow
+8. random
+9. string
+10. time
+
