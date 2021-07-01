@@ -13,4 +13,4 @@ Lung CT Scan and infers the image to the predictive model. The output or predict
 of the model is then displayed to the user which will display Covid-
 19 stage I,II and Severe stage or Non- Covid-19 to the User.
 
-**Platform**
+****Platform****
