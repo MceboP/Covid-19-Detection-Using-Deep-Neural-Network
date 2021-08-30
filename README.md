@@ -43,5 +43,6 @@ Windows 10
 <img width="1280" alt="Median Filter" src="https://user-images.githubusercontent.com/69386916/131396768-ede9598d-b6e1-4b21-a181-decb6e57b9d3.png">
 
 # Authors
-
+Final Year Project at SPPU in Maharashtra Institute of Technology
 Mcebo Pateguana, Prashant Sharma & Thawachai Yango
+Under the guidance of Mrs. Vandana Jagtap
