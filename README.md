@@ -1,4 +1,4 @@
-# Covid-19-Detection-using-Deep-Neural-Network
+# Covid-19-Detection-using-Deep-Neural-Network by Mcebo Pateguana, Thawachai Yango & Prashant Sharma
 
 The Corona outbreak has put significant pressure on imaging departments, to
 test hundreds of peoples per day. Patients and doctors typically have to wait a
