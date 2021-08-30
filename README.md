@@ -15,7 +15,7 @@ of the model is then displayed to the user which will display Covid-
 
 # ****Platform****
 
-Windows 10
+Windows 10 / Mac OS
 
 # **Libraries**
 
