@@ -1,4 +1,4 @@
-# Covid-19-Detection-using-Deep-Neural-Network by Mcebo Pateguana, Thawachai Yango & Prashant Sharma
+# Covid-19-Detection-using-Deep-Neural-Network
 
 The Corona outbreak has put significant pressure on imaging departments, to
 test hundreds of peoples per day. Patients and doctors typically have to wait a
@@ -42,3 +42,6 @@ Windows 10
 ![ConfMatrix](https://user-images.githubusercontent.com/69386916/131396694-02932131-f3be-44ff-9cfb-800b0d885905.jpg)
 <img width="1280" alt="Median Filter" src="https://user-images.githubusercontent.com/69386916/131396768-ede9598d-b6e1-4b21-a181-decb6e57b9d3.png">
 
+# Authors
+
+Mcebo Pateguana, Prashant Sharma & Thawachai Yango
